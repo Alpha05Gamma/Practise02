@@ -13,40 +13,40 @@
                 key = Console.ReadKey();
                 switch (key.Key)
                 {
-                    case ConsoleKey.Q: 
+                    case ConsoleKey.Z: 
                         Sound(chosenOctawe, 1);
                         break;
-                    case ConsoleKey.W:
+                    case ConsoleKey.S:
                         Sound(chosenOctawe, 2);
                         break;
-                    case ConsoleKey.E:
+                    case ConsoleKey.X:
                         Sound(chosenOctawe, 3);
                         break;
-                    case ConsoleKey.R:
+                    case ConsoleKey.D:
                         Sound(chosenOctawe, 4);
                         break;
-                    case ConsoleKey.T:
+                    case ConsoleKey.C:
                         Sound(chosenOctawe, 5);
                         break;
-                    case ConsoleKey.Y:
+                    case ConsoleKey.V:
                         Sound(chosenOctawe, 6);
                         break;
-                    case ConsoleKey.U:
+                    case ConsoleKey.G:
                         Sound(chosenOctawe, 7);
                         break;
-                    case ConsoleKey.I:
+                    case ConsoleKey.B:
                         Sound(chosenOctawe, 8);
                         break;
-                    case ConsoleKey.O:
+                    case ConsoleKey.H:
                         Sound(chosenOctawe, 9);
                         break;
-                    case ConsoleKey.P:
+                    case ConsoleKey.N:
                         Sound(chosenOctawe, 10);
                         break;
-                    case ConsoleKey.K:
+                    case ConsoleKey.J:
                         Sound(chosenOctawe, 11);
                         break;
-                    case ConsoleKey.L:
+                    case ConsoleKey.M:
                         Sound(chosenOctawe, 12);
                         break;
                     case ConsoleKey.F5 : chosenOctawe++;
