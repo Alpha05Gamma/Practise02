@@ -112,7 +112,7 @@
             {
                 soundLevel = 37;
             }
-            Console.Beep(soundLevel, 250);
+            Console.Beep(soundLevel, 500);
         }
 
     }
